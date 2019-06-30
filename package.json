@@ -1,10 +1,10 @@
 {
   "name": "danki",
   "version": "1.0.0",
-  "description": "Markdown notes -> spaced-repetition flashcards.",
+  "description": "Turn your markdown notes into spaced-repetition flashcards.",
   "main": "src/index.js",
   "scripts": {
-    "test": "markdown-doctest",
+    "test": "jest src",
     "start": "node src/index.js"
   },
   "author": "Justin Silvestre <justinsilvestre@gmail.com>",
@@ -18,5 +18,8 @@
     "remark-stringify": "^6.0.4",
     "unified": "^7.1.0",
     "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }

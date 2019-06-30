@@ -7,7 +7,6 @@ const remark = unified()
   .use(html);
 
 const markdownToHtml = text => {
-  console.log(JSON.stringify(remark.parse(text)));
   return remark.processSync(text).contents;
 };
 
