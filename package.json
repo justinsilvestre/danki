@@ -13,7 +13,7 @@
     "fs-walk": "0.0.2",
     "markdown-doctest": "^0.9.1",
     "papaparse": "^5.0.0",
-    "remark-html": "^9.0.0",
+    "remark-html": "^13.0.2",
     "remark-parse": "^6.0.3",
     "remark-stringify": "^6.0.4",
     "unified": "^7.1.0",
