@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-walk": "0.0.2",
-    "markdown-doctest": "^0.9.1",
+    "markdown-doctest": "^1.1.0",
     "papaparse": "^5.0.0",
     "remark-html": "^9.0.0",
     "remark-parse": "^6.0.3",
